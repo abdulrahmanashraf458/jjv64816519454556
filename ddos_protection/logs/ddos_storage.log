@@ -1,0 +1,638 @@
+2025-05-24 04:56:31,093 - ddos_protection.storage - INFO - Loaded 19 banned IPs into memory cache
+2025-05-24 04:56:31,093 - ddos_protection.storage - INFO - Ban manager initialized with memory cache
+2025-05-24 05:00:20,152 - ddos_protection.storage - INFO - Loaded 19 banned IPs into memory cache
+2025-05-24 05:00:20,152 - ddos_protection.storage - INFO - Ban manager initialized with memory cache
+2025-05-24 05:15:16,580 - ddos_protection.storage - ERROR - Failed to load banned IPs into memory cache: 'set' object does not support item assignment
+2025-05-24 05:15:16,580 - ddos_protection.storage - INFO - Ban manager initialized with memory cache
+2025-05-24 05:18:37,333 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 6 requests in 0.00s
+2025-05-24 05:18:38,999 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:39,072 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:39,082 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 7 requests in 0.00s
+2025-05-24 05:18:39,885 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:39,959 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:39,965 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 8 requests in 0.00s
+2025-05-24 05:18:40,760 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:40,837 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:40,845 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 9 requests in 0.00s
+2025-05-24 05:18:41,647 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:41,720 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:41,725 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 10 requests in 0.00s
+2025-05-24 05:18:42,487 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:42,575 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:42,583 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 11 requests in 0.00s
+2025-05-24 05:18:43,406 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:43,502 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:43,513 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 12 requests in 0.01s
+2025-05-24 05:18:44,344 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:44,417 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:44,423 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 13 requests in 0.01s
+2025-05-24 05:18:45,182 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:45,254 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:45,260 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 14 requests in 0.01s
+2025-05-24 05:18:46,036 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:46,113 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:46,118 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 15 requests in 0.01s
+2025-05-24 05:18:46,916 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:47,004 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:47,010 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 16 requests in 0.01s
+2025-05-24 05:18:47,790 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:47,869 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:47,875 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 17 requests in 0.01s
+2025-05-24 05:18:48,659 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:48,749 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:48,755 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 18 requests in 0.01s
+2025-05-24 05:18:49,771 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:49,864 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:49,871 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 19 requests in 0.01s
+2025-05-24 05:18:50,692 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:50,766 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:50,772 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 20 requests in 0.01s
+2025-05-24 05:18:51,515 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:51,598 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:51,603 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 21 requests in 0.01s
+2025-05-24 05:18:52,398 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:52,476 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:52,482 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 22 requests in 0.01s
+2025-05-24 05:18:53,221 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:53,295 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:53,301 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 23 requests in 0.01s
+2025-05-24 05:18:54,104 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:54,178 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:54,183 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 24 requests in 0.01s
+2025-05-24 05:18:54,978 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:55,051 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:55,056 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 25 requests in 0.01s
+2025-05-24 05:18:55,884 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:55,958 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:55,964 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 26 requests in 0.01s
+2025-05-24 05:18:56,791 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:56,866 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:56,872 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 27 requests in 0.01s
+2025-05-24 05:18:57,662 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:57,737 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:57,743 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 28 requests in 0.01s
+2025-05-24 05:18:58,512 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:58,586 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:58,592 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 29 requests in 0.01s
+2025-05-24 05:18:59,386 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:59,460 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:18:59,466 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 30 requests in 0.01s
+2025-05-24 05:19:00,399 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:00,472 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:00,477 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 31 requests in 0.01s
+2025-05-24 05:19:01,233 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:01,309 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:01,314 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 32 requests in 0.01s
+2025-05-24 05:19:02,060 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:02,135 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:02,141 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 33 requests in 0.01s
+2025-05-24 05:19:02,927 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:03,006 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:03,012 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 34 requests in 0.01s
+2025-05-24 05:19:03,826 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:03,919 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:03,925 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 35 requests in 0.01s
+2025-05-24 05:19:04,741 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:04,813 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:04,818 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 36 requests in 0.01s
+2025-05-24 05:19:05,651 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:05,725 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:05,731 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 37 requests in 0.01s
+2025-05-24 05:19:06,532 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:06,606 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:06,612 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 38 requests in 0.01s
+2025-05-24 05:19:07,410 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:07,484 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:07,489 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 39 requests in 0.01s
+2025-05-24 05:19:08,343 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:08,415 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:08,421 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 40 requests in 0.02s
+2025-05-24 05:19:09,239 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:09,313 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:09,318 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 41 requests in 0.02s
+2025-05-24 05:19:10,128 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:10,205 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:10,213 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 42 requests in 0.02s
+2025-05-24 05:19:10,980 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:11,053 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:11,059 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 43 requests in 0.02s
+2025-05-24 05:19:11,902 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:11,974 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:11,980 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 44 requests in 0.02s
+2025-05-24 05:19:12,801 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:12,872 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:12,877 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 45 requests in 0.02s
+2025-05-24 05:19:13,820 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:13,892 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:13,897 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 46 requests in 0.02s
+2025-05-24 05:19:14,686 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:14,759 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:14,765 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 47 requests in 0.02s
+2025-05-24 05:19:15,545 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:15,641 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:15,646 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 48 requests in 0.02s
+2025-05-24 05:19:16,468 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:16,540 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:16,546 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 49 requests in 0.02s
+2025-05-24 05:19:17,333 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:17,407 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:17,413 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 50 requests in 0.02s
+2025-05-24 05:19:18,202 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:18,275 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:18,280 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 51 requests in 0.02s
+2025-05-24 05:19:19,124 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:19,198 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:19,205 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 52 requests in 0.02s
+2025-05-24 05:19:19,998 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:20,074 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:20,079 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 53 requests in 0.02s
+2025-05-24 05:19:20,899 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:20,971 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:20,977 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 54 requests in 0.02s
+2025-05-24 05:19:21,783 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:21,858 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:21,864 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 55 requests in 0.02s
+2025-05-24 05:19:22,738 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:22,809 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:22,815 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 56 requests in 0.02s
+2025-05-24 05:19:23,650 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:23,723 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:23,728 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 57 requests in 0.02s
+2025-05-24 05:19:24,581 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:24,655 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:24,660 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 58 requests in 0.02s
+2025-05-24 05:19:25,450 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:25,525 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:25,531 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 59 requests in 0.02s
+2025-05-24 05:19:26,333 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:26,407 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:26,412 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 60 requests in 0.02s
+2025-05-24 05:19:27,185 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:27,263 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:27,269 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 61 requests in 0.02s
+2025-05-24 05:19:28,026 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:28,106 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:28,112 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 62 requests in 0.02s
+2025-05-24 05:19:28,869 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:28,963 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:28,969 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 63 requests in 0.02s
+2025-05-24 05:19:29,757 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:29,831 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:29,836 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 64 requests in 0.02s
+2025-05-24 05:19:30,661 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:30,740 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:30,747 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 65 requests in 0.02s
+2025-05-24 05:19:31,601 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:31,673 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:31,678 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 66 requests in 0.02s
+2025-05-24 05:19:32,438 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:32,511 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:32,517 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 67 requests in 0.02s
+2025-05-24 05:19:33,282 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:33,365 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:33,371 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 68 requests in 0.02s
+2025-05-24 05:19:34,217 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:34,293 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:34,298 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 69 requests in 0.02s
+2025-05-24 05:19:35,165 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:35,238 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:35,244 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 70 requests in 0.03s
+2025-05-24 05:19:36,043 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:36,117 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:36,123 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 71 requests in 0.03s
+2025-05-24 05:19:36,949 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:37,021 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:37,027 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 72 requests in 0.03s
+2025-05-24 05:19:37,829 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:37,902 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:37,907 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 73 requests in 0.03s
+2025-05-24 05:19:38,882 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:38,957 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:38,963 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 74 requests in 0.03s
+2025-05-24 05:19:39,787 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:39,859 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:39,864 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 75 requests in 0.03s
+2025-05-24 05:19:40,689 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:40,762 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:40,768 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 76 requests in 0.03s
+2025-05-24 05:19:41,581 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:41,654 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:41,660 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 77 requests in 0.03s
+2025-05-24 05:19:42,448 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:42,519 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:42,525 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 78 requests in 0.03s
+2025-05-24 05:19:43,333 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:43,409 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:43,415 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 79 requests in 0.03s
+2025-05-24 05:19:44,225 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:44,299 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:44,305 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 80 requests in 0.03s
+2025-05-24 05:19:45,123 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:45,196 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:45,202 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 81 requests in 0.03s
+2025-05-24 05:19:45,975 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:46,055 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:46,061 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 82 requests in 0.03s
+2025-05-24 05:19:46,884 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:46,957 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:46,963 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 83 requests in 0.03s
+2025-05-24 05:19:47,746 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:47,823 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:47,829 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 84 requests in 0.03s
+2025-05-24 05:19:48,661 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:48,736 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:48,742 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 85 requests in 0.03s
+2025-05-24 05:19:49,607 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:49,681 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:49,687 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 86 requests in 0.03s
+2025-05-24 05:19:50,533 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:50,627 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:50,635 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 87 requests in 0.03s
+2025-05-24 05:19:51,447 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:51,522 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:51,528 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 88 requests in 0.03s
+2025-05-24 05:19:52,357 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:52,431 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:52,437 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 89 requests in 0.03s
+2025-05-24 05:19:53,243 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:53,322 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:53,328 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 90 requests in 0.03s
+2025-05-24 05:19:54,464 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:54,541 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:54,547 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 91 requests in 0.03s
+2025-05-24 05:19:57,119 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:57,191 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:57,196 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 92 requests in 0.03s
+2025-05-24 05:19:58,586 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:58,661 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:58,667 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 93 requests in 0.03s
+2025-05-24 05:19:59,492 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:59,565 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:19:59,571 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 94 requests in 0.03s
+2025-05-24 05:20:00,390 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:00,462 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:00,468 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 95 requests in 0.03s
+2025-05-24 05:20:01,276 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:01,352 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:01,358 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 96 requests in 0.03s
+2025-05-24 05:20:02,126 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:02,215 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:02,222 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 97 requests in 0.03s
+2025-05-24 05:20:03,005 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:03,085 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:03,091 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 98 requests in 0.04s
+2025-05-24 05:20:03,955 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:04,030 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:04,036 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 99 requests in 0.04s
+2025-05-24 05:20:04,799 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:04,875 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:04,881 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 100 requests in 0.04s
+2025-05-24 05:20:05,701 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:05,777 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:05,783 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 101 requests in 0.13s
+2025-05-24 05:20:06,582 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:06,657 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:06,663 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 102 requests in 0.22s
+2025-05-24 05:20:07,476 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:07,552 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:07,558 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 103 requests in 0.32s
+2025-05-24 05:20:08,323 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:08,401 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:08,407 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 104 requests in 0.43s
+2025-05-24 05:20:09,383 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:09,459 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:09,465 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 105 requests in 0.43s
+2025-05-24 05:20:10,278 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:10,353 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:10,358 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 106 requests in 3.55s
+2025-05-24 05:20:11,136 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:11,210 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:11,219 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 107 requests in 4.34s
+2025-05-24 05:20:12,075 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:12,151 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:12,157 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: From banned_ips_cache
+2025-05-24 05:20:12,939 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:13,021 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:13,027 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 6 requests in 0.95s
+2025-05-24 05:20:13,853 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:13,928 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:13,934 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 7 requests in 1.72s
+2025-05-24 05:20:14,748 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:14,827 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:14,832 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 8 requests in 2.65s
+2025-05-24 05:20:15,648 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:15,725 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:15,731 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 9 requests in 3.46s
+2025-05-24 05:20:16,531 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:16,609 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:16,615 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 10 requests in 4.35s
+2025-05-24 05:20:17,377 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:17,451 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:17,457 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 6 requests in 0.03s
+2025-05-24 05:20:18,230 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:18,311 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:18,317 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 7 requests in 0.43s
+2025-05-24 05:20:19,100 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:19,182 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:19,188 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 8 requests in 0.43s
+2025-05-24 05:20:20,178 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:20,258 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:20,264 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 9 requests in 0.43s
+2025-05-24 05:20:21,039 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:21,115 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:21,124 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 10 requests in 0.43s
+2025-05-24 05:20:21,901 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:21,995 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:22,002 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 11 requests in 0.43s
+2025-05-24 05:20:22,828 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:22,902 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:22,908 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 12 requests in 0.43s
+2025-05-24 05:20:23,701 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:23,777 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:23,782 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 13 requests in 0.43s
+2025-05-24 05:20:24,521 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:24,620 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:24,629 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 14 requests in 0.43s
+2025-05-24 05:20:25,472 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:25,554 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:25,559 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 15 requests in 0.43s
+2025-05-24 05:20:26,353 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:26,427 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:26,433 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 16 requests in 0.43s
+2025-05-24 05:20:27,230 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:27,302 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:27,307 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 17 requests in 0.43s
+2025-05-24 05:20:28,121 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:28,196 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:28,202 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 18 requests in 0.43s
+2025-05-24 05:20:29,037 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:29,118 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:29,124 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 19 requests in 0.43s
+2025-05-24 05:20:29,939 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:30,021 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:30,026 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 20 requests in 0.43s
+2025-05-24 05:20:30,827 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:30,901 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:30,907 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 21 requests in 0.43s
+2025-05-24 05:20:31,703 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:31,776 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:31,782 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 22 requests in 0.43s
+2025-05-24 05:20:32,716 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:32,787 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:32,793 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 23 requests in 0.43s
+2025-05-24 05:20:33,594 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:33,664 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:33,670 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 24 requests in 0.43s
+2025-05-24 05:20:34,464 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:34,547 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:34,553 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 25 requests in 0.43s
+2025-05-24 05:20:35,682 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:35,759 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:35,765 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 26 requests in 0.43s
+2025-05-24 05:20:36,554 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:36,638 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:36,644 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 27 requests in 0.43s
+2025-05-24 05:20:38,132 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:38,208 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:38,213 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 28 requests in 0.43s
+2025-05-24 05:20:39,098 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:39,174 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:39,179 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 29 requests in 0.43s
+2025-05-24 05:20:40,010 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:40,089 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:40,095 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 30 requests in 0.43s
+2025-05-24 05:20:40,888 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:40,964 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:40,970 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 31 requests in 0.43s
+2025-05-24 05:20:41,816 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:41,890 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:41,895 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 32 requests in 0.43s
+2025-05-24 05:20:42,685 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:42,764 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:42,770 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 33 requests in 0.43s
+2025-05-24 05:20:43,620 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:43,695 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:43,700 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 34 requests in 0.44s
+2025-05-24 05:20:44,530 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:44,606 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:44,611 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 35 requests in 0.44s
+2025-05-24 05:20:45,436 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:45,512 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:45,518 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 36 requests in 0.44s
+2025-05-24 05:20:46,368 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:46,449 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:46,457 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 37 requests in 0.44s
+2025-05-24 05:20:47,291 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:47,371 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:47,377 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 38 requests in 0.44s
+2025-05-24 05:20:48,172 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:48,249 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:48,255 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 39 requests in 0.44s
+2025-05-24 05:20:49,075 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:49,155 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:49,161 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 40 requests in 0.44s
+2025-05-24 05:20:49,996 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:50,081 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:50,087 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 41 requests in 0.44s
+2025-05-24 05:20:50,840 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:50,933 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:50,940 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 42 requests in 0.44s
+2025-05-24 05:20:51,743 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:51,849 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:51,856 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 43 requests in 0.44s
+2025-05-24 05:20:52,707 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:52,786 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:52,792 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 44 requests in 0.44s
+2025-05-24 05:20:53,646 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:53,719 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:53,725 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 45 requests in 0.44s
+2025-05-24 05:20:54,567 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:54,658 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:54,664 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 46 requests in 0.44s
+2025-05-24 05:20:55,506 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:55,584 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:55,589 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 47 requests in 0.44s
+2025-05-24 05:20:56,414 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:56,502 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:56,507 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 48 requests in 0.44s
+2025-05-24 05:20:57,320 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:57,397 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:57,404 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 49 requests in 0.44s
+2025-05-24 05:20:58,190 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:58,264 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:58,270 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 50 requests in 0.44s
+2025-05-24 05:20:59,029 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:59,122 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:59,131 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 51 requests in 0.44s
+2025-05-24 05:20:59,900 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:59,977 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:20:59,983 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 52 requests in 0.44s
+2025-05-24 05:21:00,785 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:00,861 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:00,866 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 53 requests in 0.44s
+2025-05-24 05:21:01,632 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:01,711 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:01,717 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 54 requests in 0.44s
+2025-05-24 05:21:02,495 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:02,578 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:02,584 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 55 requests in 0.44s
+2025-05-24 05:21:03,423 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:03,524 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:03,533 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 56 requests in 0.44s
+2025-05-24 05:21:04,395 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:04,478 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:04,485 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 57 requests in 0.44s
+2025-05-24 05:21:05,241 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:05,319 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:05,326 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 58 requests in 0.44s
+2025-05-24 05:21:06,125 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:06,218 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:06,225 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 59 requests in 0.44s
+2025-05-24 05:21:07,446 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:07,534 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:07,541 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 60 requests in 0.44s
+2025-05-24 05:21:08,357 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:08,442 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:08,448 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 61 requests in 0.44s
+2025-05-24 05:21:09,243 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:09,332 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:09,340 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 62 requests in 0.44s
+2025-05-24 05:21:10,183 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:10,265 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:10,272 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 63 requests in 0.44s
+2025-05-24 05:21:11,040 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:11,145 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:11,154 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 64 requests in 0.45s
+2025-05-24 05:21:12,108 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:12,217 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:12,225 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 65 requests in 0.45s
+2025-05-24 05:21:13,108 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:13,195 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:13,202 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 66 requests in 0.45s
+2025-05-24 05:21:14,006 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:14,103 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:14,110 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 67 requests in 0.45s
+2025-05-24 05:21:14,892 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:14,992 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:14,999 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 68 requests in 0.45s
+2025-05-24 05:21:15,791 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:15,909 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:15,917 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 69 requests in 0.45s
+2025-05-24 05:21:16,703 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:16,789 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:16,795 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 70 requests in 0.45s
+2025-05-24 05:21:17,597 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:17,679 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:17,686 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 71 requests in 0.45s
+2025-05-24 05:21:18,441 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:18,531 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:18,538 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 72 requests in 0.45s
+2025-05-24 05:21:19,337 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:19,443 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:19,451 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 73 requests in 0.45s
+2025-05-24 05:21:20,263 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:20,350 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:20,356 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 74 requests in 0.45s
+2025-05-24 05:21:21,169 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:21,245 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:21,251 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 75 requests in 0.45s
+2025-05-24 05:21:21,989 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:22,064 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:22,070 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 76 requests in 0.45s
+2025-05-24 05:21:22,844 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:22,940 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:22,947 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 77 requests in 0.45s
+2025-05-24 05:21:23,733 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:23,810 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:23,816 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 78 requests in 0.45s
+2025-05-24 05:21:24,645 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:24,721 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:24,726 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 79 requests in 0.45s
+2025-05-24 05:21:25,488 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:25,583 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:25,589 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 80 requests in 0.45s
+2025-05-24 05:21:26,400 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:26,484 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:26,490 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 81 requests in 0.45s
+2025-05-24 05:21:27,349 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:27,428 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:27,434 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 82 requests in 0.45s
+2025-05-24 05:21:28,257 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:28,337 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:28,343 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 83 requests in 0.45s
+2025-05-24 05:21:29,161 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:29,239 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:29,244 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 84 requests in 0.45s
+2025-05-24 05:21:30,046 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:30,119 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:30,124 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 85 requests in 0.45s
+2025-05-24 05:21:31,107 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:31,212 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:31,220 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 86 requests in 0.45s
+2025-05-24 05:21:32,207 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:32,303 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:32,310 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 87 requests in 0.45s
+2025-05-24 05:21:33,114 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:33,233 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:33,242 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 88 requests in 0.45s
+2025-05-24 05:21:34,045 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:34,165 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:34,176 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 89 requests in 0.45s
+2025-05-24 05:21:35,011 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:35,235 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:35,242 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 90 requests in 0.45s
+2025-05-24 05:21:36,081 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:36,174 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:36,181 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 91 requests in 0.45s
+2025-05-24 05:21:36,990 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:37,067 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:37,072 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 92 requests in 0.45s
+2025-05-24 05:21:37,877 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:37,954 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:37,960 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 93 requests in 0.46s
+2025-05-24 05:21:38,781 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:38,856 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:38,861 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 94 requests in 0.46s
+2025-05-24 05:21:39,749 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:39,823 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:39,829 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 95 requests in 0.46s
+2025-05-24 05:21:40,613 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:40,694 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:40,699 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 96 requests in 0.46s
+2025-05-24 05:21:41,522 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:41,598 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:41,603 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 97 requests in 0.46s
+2025-05-24 05:21:42,373 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:42,453 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:42,459 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 98 requests in 3.38s
+2025-05-24 05:21:43,289 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:43,366 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:43,371 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 99 requests in 4.38s
+2025-05-24 05:21:44,142 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:44,226 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:44,232 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 6 requests in 0.03s
+2025-05-24 05:21:45,017 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:45,098 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:45,103 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 7 requests in 1.00s
+2025-05-24 05:21:45,954 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:46,030 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:46,035 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 8 requests in 2.00s
+2025-05-24 05:21:46,894 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:46,972 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:46,978 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 9 requests in 3.00s
+2025-05-24 05:21:47,780 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:47,867 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:47,873 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 10 requests in 3.00s
+2025-05-24 05:21:48,650 - ddos_protection.storage.ban_manager - ERROR - Failed to send Cloudflare ban for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:48,731 - ddos_protection.storage.ban_manager - ERROR - Failed to apply system firewall block for IP 127.0.0.1: no running event loop
+2025-05-24 05:21:48,737 - ddos_protection.storage.ban_manager - WARNING - IP 127.0.0.1 banned for 86400 seconds: Stress test detected: 11 requests in 4.00s
+2025-05-24 05:22:25,383 - ddos_protection.storage - ERROR - Failed to load banned IPs into memory cache: 'set' object does not support item assignment
+2025-05-24 05:22:25,383 - ddos_protection.storage - INFO - Ban manager initialized with memory cache
+2025-05-24 05:26:48,024 - ddos_protection.storage - ERROR - Failed to load banned IPs into memory cache: 'set' object does not support item assignment
+2025-05-24 05:26:48,024 - ddos_protection.storage - INFO - Ban manager initialized with memory cache
+2025-05-24 05:39:08,648 - ddos_protection.storage - INFO - Loaded 20 banned IPs into memory cache
+2025-05-24 05:39:08,648 - ddos_protection.storage - INFO - Ban manager initialized with memory cache
+2025-05-24 05:54:56,218 - ddos_protection.storage - INFO - Loaded 20 banned IPs into memory cache
+2025-05-24 05:54:56,218 - ddos_protection.storage - INFO - Ban manager initialized with memory cache
+2025-05-24 05:56:56,589 - ddos_protection.storage - INFO - Loaded 20 banned IPs into memory cache
+2025-05-24 05:56:56,590 - ddos_protection.storage - INFO - Ban manager initialized with memory cache
